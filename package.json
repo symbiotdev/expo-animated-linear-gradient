@@ -1,0 +1,47 @@
+{
+  "name": "@symbiot.dev/expo-animated-linear-gradient",
+  "version": "1.1.1",
+  "description": "A lightweight, animated linear gradient component built on top of expo-linear-gradient for React Native and Expo.",
+  "main": "./index.esm.js",
+  "types": "./src/index.d.ts",
+  "keywords": [
+    "react-native",
+    "expo",
+    "expo-linear-gradient",
+    "animated-gradient",
+    "linear-gradient",
+    "react-native-animations",
+    "expo-animated-components",
+    "gradient-background",
+    "animated-ui"
+  ],
+  "files": [
+    "./src/**",
+    "./CHANGELOG.md",
+    "./index.esm.d.ts",
+    "./index.esm.js",
+    "./LICENSE",
+    "./README.md"
+  ],
+  "author": {
+    "name": "Symbiot",
+    "email": "info@symbiot.dev",
+    "url": "https://symbiot.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://symbiot.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symbiotdev/expo-animated-linear-gradient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/symbiotdev/expo-animated-linear-gradient/issues"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "expo-linear-gradient": "*"
+  },
+  "module": "./index.esm.js",
+  "type": "module"
+}
